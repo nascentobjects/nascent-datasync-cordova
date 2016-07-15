@@ -1,0 +1,23 @@
+{
+  "name": "nascent-datasync-cordova",
+  "description": "communicate with nascent devices through cordova",
+  "main": "nascent-datasync-cordova.js",
+  "moduleType": [],
+  "keywords": [
+    "nascent",
+    "cordova"
+  ],
+  "license": "CLOSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eventEmitter": "^4.3.0"
+  }
+}
